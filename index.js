@@ -91,7 +91,7 @@ mensagens.forEach(mensagem => {
 /* 
             console.log("Aola fim")
 
-            console.log(chatJivo) */
+            console.loghhttyhthtg(chatJivo) */
 
 
             await browser.close();
