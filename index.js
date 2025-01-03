@@ -23,12 +23,12 @@ const dom = new JSDOM(`
 </head>
 <body>
     <h1>Hello, World!</h1>
-    <div id="content">This is some content</div>
+    <div id="content">This is sontent</div>
 </body>
 </html>
 `); */
 
-/* const $ = jQuery(dom.window);(dom.window);(dom.window);(dom.window);(dom.window);
+/* const $ = jQuery(dom.window);(dom.window);;
  */
 
 
@@ -91,7 +91,7 @@ mensagens.forEach(mensagem => {
 /* 
             console.log("Aola fim")
 
-            console.log(chatJivo) */
+            console.loghhttyhthtg(chatJivo) */
 
 
             await browser.close();
