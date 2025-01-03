@@ -28,7 +28,7 @@ const dom = new JSDOM(`
 </html>
 `); */
 
-/* const $ = jQuery(dom.window);
+/* const $ = jQuery(dom.window);(dom.window);(dom.window);(dom.window);(dom.window);
  */
 
 
